@@ -5,3 +5,7 @@
 5-bootstarp tab
 6-store proc for binary files
 7-jquerry tutoials
+View State:
+https://www.c-sharpcorner.com/article/overview-of-viewstate-in-asp-net/
+	In this control EnableViewState="True"property is true, 
+  that's why control retains the value of control during postbacks.
